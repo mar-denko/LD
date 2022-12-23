@@ -1,1 +1,3 @@
-https://lapdesign.netlify.app/
+лендинг проект
+
+хост https://lapdesign.netlify.app/
